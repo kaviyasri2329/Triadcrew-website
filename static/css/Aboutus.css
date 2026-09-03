@@ -1,0 +1,17 @@
+body{ font-family:arial;
+background-color:rgb(150, 203, 225); }
+
+h2{font_family:arial;
+color:rgb(32, 79, 136);
+font-size:30px}
+
+body p{font-size:18px;
+font-family:arial;
+color:rgb(15, 81, 109)}
+
+body h1{font-size:40px}
+
+nav{ display:flex;
+gap: 30px;
+justify-content: center;
+background-color:rgb(55, 147, 186); }
